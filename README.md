@@ -33,7 +33,7 @@ I love collaborating on interesting projects, learning from others, and turning 
 <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"> <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"> -->
 
 
-## ✨ Projects ✨
+<!-- ## ✨ Projects ✨
 
 <b> Some of the projects I have worked on </b> <br>
 
@@ -49,7 +49,7 @@ I love collaborating on interesting projects, learning from others, and turning 
 </a> 
 <a href="https://github.com/Advik-Gupta/Godot-Platformer-Game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Advik-Gupta&repo=Godot-Platformer-Game&theme=tokyonight&show_owner" />
-</a> <br><br>
+</a> <br><br> -->
 
 ## 🤝 Contact Me
 
@@ -58,8 +58,8 @@ Instagram &rarr; https://www.instagram.com/advikguptaa <br>
 Twitter &rarr; https://x.com/advikguptaa <br>
 LinkedIn &rarr; https://www.linkedin.com/in/advik-guptaa <br>
 
-## 📈 Stats
+<!--  ## 📈 Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=375px" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=250px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advik-Gupta&theme=tokyonight&layout=compact&card_width=250px" /> -->
 
